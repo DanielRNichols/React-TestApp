@@ -1,9 +1,9 @@
-import { Component } from '../backend/App/Model/Component';
-import { IModelProps, Model } from '../backend/App/Model/Model';
-import { Line } from "../backend/App/Graphics/Line";
-import { Circle } from "../backend/App/Graphics/Circle";
-import { Point } from "../backend/App/Geometry/Point";
-import { Rectangle } from "../backend/App/Graphics/Rectangle";
+import { Component } from '../Model/Component';
+import { IModelProps, Model } from '../Model/Model';
+import { Line } from "../Graphics/Line";
+import { Circle } from "../Graphics/Circle";
+import { Point } from "../Geometry/Point";
+import { Rectangle } from "../Graphics/Rectangle";
 
 
   let modelProps1 : IModelProps = {
